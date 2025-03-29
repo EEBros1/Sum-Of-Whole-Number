@@ -1,0 +1,1 @@
+# Sum-Of-Whole-Number
